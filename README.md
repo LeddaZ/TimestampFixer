@@ -1,5 +1,9 @@
 # Filename to Modified Date
 
+## ⚠️ Slop alert! ⚠️
+
+I vibecoded this months ago because I needed to fix some files, I only tested it on Windows amd64.
+
 A small PyQt6 desktop app that fixes the "last modified" timestamp of files
 using the date written in their filename.
 
